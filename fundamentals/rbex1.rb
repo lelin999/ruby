@@ -12,3 +12,4 @@
 # .last
 # .max { |a, b| }
 # .min { |a, b|  }
+[1,3,5,7].max { |a, b| puts a }
